@@ -1,0 +1,1 @@
+print("nag kaon naka ?")
