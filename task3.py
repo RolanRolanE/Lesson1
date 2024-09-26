@@ -1,1 +1,1 @@
-print("nag kaon naka ?")
+print("cge2")
